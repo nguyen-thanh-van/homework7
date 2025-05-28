@@ -5,6 +5,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
 
+
 public class Game extends JFrame {
     // GUI components
     protected JLabel wordLabel, attemptsLabel, timeLabel;
